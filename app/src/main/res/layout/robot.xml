@@ -35,7 +35,7 @@
         app:gravGenerator="com.github.glomadrian.grav.generator.grav.BallGenerator"
         />
 
-    <android.support.v7.widget.AppCompatImageView
+    <androidx.appcompat.widget.AppCompatImageView
         android:layout_gravity="center"
         android:layout_width="80dp"
         android:layout_height="80dp"

@@ -30,7 +30,7 @@
         app:shake_variance="5dp"
         app:shake_direction="vertical"
         />
-    <android.support.v7.widget.AppCompatImageView
+    <androidx.appcompat.widget.AppCompatImageView
         app:srcCompat="@drawable/millenium_falcon"
         android:layout_margin="20dp"
         android:layout_width="150dp"
