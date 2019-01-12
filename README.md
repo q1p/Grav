@@ -1,5 +1,6 @@
 # Grav
-[![Download](https://api.bintray.com/packages/glomadrian/maven/RoadRunner/images/download.svg) ](https://bintray.com/glomadrian/maven/Grav/_latestVersion)
+[![Release](https://jitpack.io/v/q1p/Grav.svg)]
+(https://jitpack.io/#q1p/Grav)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 
 <p align="center">
@@ -407,14 +408,12 @@ Add repository
 
 ```groovy
 repositories {
-  maven {
-    url "http://dl.bintray.com/glomadrian/maven"
-  }
+  maven { url 'https://jitpack.io' }
 }
 ```
 Add dependency
 ```groovy
-compile 'com.github.glomadrian:Grav:1.1'
+implementation 'com.github.q1p:Grav:Tag'
 ```
 
   Developed By
