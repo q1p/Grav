@@ -1,7 +1,5 @@
 # Grav
-[![Release](https://jitpack.io/v/q1p/Grav.svg)]
-(https://jitpack.io/#q1p/Grav)
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![](https://jitpack.io/v/q1p/Grav.svg)](https://jitpack.io/#q1p/Grav) [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0) [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 
 <p align="center">
 <img src="./art/grav.png " alt="Drawing" width="250" />
@@ -413,7 +411,7 @@ repositories {
 ```
 Add dependency
 ```groovy
-implementation 'com.github.q1p:Grav:Tag'
+implementation 'com.github.q1p:Grav:1.2.1'
 ```
 
   Developed By
